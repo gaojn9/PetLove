@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11982967",
+      "name": "Heartworm Treatment",
+      "font_class": "HeartwormTreatment",
+      "unicode": "e9e8",
+      "unicode_decimal": 59880
+    }
+  ]
+}
